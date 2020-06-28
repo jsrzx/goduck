@@ -40,3 +40,7 @@ goduck [global options] command [command options] [arguments...]
 #### global options
 - `--repo value`          GoDuck storage repo path
 - `--help, -h`
+
+See 
+[usage documentation](https://github.com/meshplus/goduck/wiki/%E9%83%A8%E7%BD%B2%E5%B7%A5%E5%85%B7goduck%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3)
+ in the wiki.
